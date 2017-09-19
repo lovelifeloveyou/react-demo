@@ -1,0 +1,20 @@
+{
+  "name": "react demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "superqjq <1902996802@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
